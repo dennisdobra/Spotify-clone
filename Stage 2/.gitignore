@@ -1,0 +1,9 @@
+.idea/
+checkstyle.txt
+*.iml
+ref/
+result/
+out/
+lib/
+input/
+
