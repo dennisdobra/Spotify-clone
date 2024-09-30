@@ -1,0 +1,9 @@
+Starting audit...
+[ERROR] C:\Users\denni\Desktop\TEMA_1_POO\.\src\solution\Output\Output.java:5:8: Unused import - com.fasterxml.jackson.annotation.JsonInclude. [UnusedImports]
+[ERROR] C:\Users\denni\Desktop\TEMA_1_POO\.\src\solution\Output\Output.java:7:8: Unused import - fileio.input.PlaylistInput. [UnusedImports]
+[ERROR] C:\Users\denni\Desktop\TEMA_1_POO\.\src\solution\Output\Output.java:8:8: Unused import - fileio.input.PodcastInput. [UnusedImports]
+[ERROR] C:\Users\denni\Desktop\TEMA_1_POO\.\src\solution\SearchBarCommands\Select.java:16:29: Variable 'song' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] C:\Users\denni\Desktop\TEMA_1_POO\.\src\solution\SearchBarCommands\Select.java:17:32: Variable 'podcast' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] C:\Users\denni\Desktop\TEMA_1_POO\.\src\solution\SearchBarCommands\Select.java:18:33: Variable 'playlist' must be private and have accessor methods. [VisibilityModifier]
+Audit done.
+Checkstyle ends with 6 errors.
