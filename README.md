@@ -64,4 +64,4 @@ In Stage 2, the project introduced a pagination system and further enhanced user
 
 ## Conclusion
 
-The GlobalWaves project aims to create a comprehensive simulation of a music streaming platform, focusing on user experience and interactive features. With the implementation of a pagination system and additional functionalities in Stage 2, the applicati
+The GlobalWaves project aims to create a comprehensive simulation of a music streaming platform, focusing on user experience and interactive features.
